@@ -8,7 +8,7 @@ To tell you some...
 
 I'll countinue when I'm back from the gym xD
 
-8/03/2025
+8/03/2025 <br>
 Sooooo I'm back :) I started doing some coding tutorials today and try to get some work done for today. Before going into my studies in september, I'll try to manage so solid porjects or at least some useful knowledge in some of the main programming languages for my data science degree (Pyhton, C, SQL etc.) 
 I'll keep u updated on my progress.
 Probably in 1-2 weeks, I can start pulling some repos for my first project. I don't really know what to tackle first but u guys can share some solid ideas if you got good ones.
