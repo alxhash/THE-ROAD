@@ -14,5 +14,5 @@ I'll keep u updated on my progress.
 Probably in 1-2 weeks, I can start pulling some repos for my first project. I don't really know what to tackle first but u guys can share some solid ideas if you got good ones.
 I think, I have marked a repo with some good beginner projects. Probably starting with that then :)
 
-06/03/2026
+06/03/2026 <br>
 I did do the tutorials but had my paractical part during that time and some difficulties simultaniously. You wouldn't believe me, if I told you. So now, I#m currently at Uni and have my first exams in a week. I#m not as prepared as I hopedd to be but I'll still try my best. There isn't much else I can do.
